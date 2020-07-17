@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\bin\Debug\netcoreapp3.1\Encapsulamento-07.exe
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\bin\Debug\netcoreapp3.1\Encapsulamento-07.deps.json
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\bin\Debug\netcoreapp3.1\Encapsulamento-07.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\bin\Debug\netcoreapp3.1\Encapsulamento-07.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\bin\Debug\netcoreapp3.1\Encapsulamento-07.dll
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\bin\Debug\netcoreapp3.1\Encapsulamento-07.pdb
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\obj\Debug\netcoreapp3.1\Encapsulamento-07.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\obj\Debug\netcoreapp3.1\Encapsulamento-07.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\obj\Debug\netcoreapp3.1\Encapsulamento-07.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\obj\Debug\netcoreapp3.1\Encapsulamento-07.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\obj\Debug\netcoreapp3.1\Encapsulamento-07.dll
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\obj\Debug\netcoreapp3.1\Encapsulamento-07.pdb
+C:\Users\Kailane\Desktop\SENAI K\Encapsulamento-07\obj\Debug\netcoreapp3.1\Encapsulamento-07.genruntimeconfig.cache
